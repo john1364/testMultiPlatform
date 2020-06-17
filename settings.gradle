@@ -1,0 +1,3 @@
+rootProject.name = 'testMultiPlatform'
+
+include ':app'
